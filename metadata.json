@@ -1,0 +1,6 @@
+{
+  "name": "Kingsgate Chess",
+  "description": "Online multiplayer chess arena with server-authoritative gameplay, live matchmaking, private rooms, and an Elo ranking ladder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
